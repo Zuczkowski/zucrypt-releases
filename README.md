@@ -12,6 +12,18 @@ sizes and unlimited bandwidth at no cost.
 - Product page / more info: https://zuczkowski.com.pl
 - Author: Mirosław Żuczkowski
 
+> **Uwaga / Note:** Twój antywirus (Windows Defender / AVG i inne) może
+> ostrzec przy pierwszym uruchomieniu instalatora — to normalne dla nowych,
+> niepodpisanych cyfrowo programów szyfrujących pliki (mechanizm
+> szyfrowania z natury przypomina heurystykom to, co robi ransomware).
+> Kliknij "Więcej informacji" → "Uruchom mimo to", żeby kontynuować.
+>
+> Your antivirus (Windows Defender / AVG and others) may warn you the
+> first time you run the installer — this is normal for new, digitally
+> unsigned file-encryption software (the encryption itself resembles what
+> ransomware does, from a heuristic scanner's point of view). Click
+> "More info" → "Run anyway" to continue.
+
 ## What's in the installer
 
 `ZuCrypt-Setup.exe` is a per-user installer (no administrator rights
