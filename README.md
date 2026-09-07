@@ -27,8 +27,8 @@ duże limity rozmiaru pliku i transferu za darmo.
 administratora), który instaluje ZuCrypt i dodaje wpisy "Zaszyfruj" /
 "Odszyfruj" do menu kontekstowego (prawy klik) w Eksploratorze Windows.
 Pliki do 1 MB można szyfrować/odszyfrowywać bezpłatnie i bezterminowo;
-większe pliki wymagają licencji (subskrypcja roczna, płatność przez
-Lemon Squeezy).
+większe pliki wymagają licencji (jednorazowa opłata, płatność przez
+Gumroad).
 
 ---
 
@@ -59,4 +59,4 @@ sizes and unlimited bandwidth at no cost.
 required) that installs ZuCrypt and adds "Encrypt"/"Decrypt" entries to
 the Windows Explorer right-click context menu. Files up to 1 MB can be
 encrypted/decrypted for free, indefinitely; larger files require a
-license (annual subscription, paid through Lemon Squeezy).
+license (one-time payment, paid through Gumroad).
