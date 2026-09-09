@@ -26,9 +26,10 @@ duże limity rozmiaru pliku i transferu za darmo.
 `ZuCrypt-Setup.exe` to instalator per-użytkownika (nie wymaga uprawnień
 administratora), który instaluje ZuCrypt i dodaje wpisy "Zaszyfruj" /
 "Odszyfruj" do menu kontekstowego (prawy klik) w Eksploratorze Windows.
-Pliki do 1 MB można szyfrować/odszyfrowywać bezpłatnie i bezterminowo;
-większe pliki wymagają licencji (jednorazowa opłata, płatność przez
-Gumroad).
+Program jest bezpłatny i bez ograniczeń dla użytku prywatnego. Firmy
+proszone są o wykupienie licencji (jednorazowa opłata, płatność przez
+Gumroad) — zobacz [zuczkowski.com.pl](https://zuczkowski.com.pl) po
+szczegóły.
 
 ---
 
@@ -57,6 +58,7 @@ sizes and unlimited bandwidth at no cost.
 
 `ZuCrypt-Setup.exe` is a per-user installer (no administrator rights
 required) that installs ZuCrypt and adds "Encrypt"/"Decrypt" entries to
-the Windows Explorer right-click context menu. Files up to 1 MB can be
-encrypted/decrypted for free, indefinitely; larger files require a
-license (one-time payment, paid through Gumroad).
+the Windows Explorer right-click context menu. The program is free
+with no restrictions for personal use. Businesses are asked to
+purchase a license (one-time payment, paid through Gumroad) — see
+[zuczkowski.com.pl](https://zuczkowski.com.pl) for details.

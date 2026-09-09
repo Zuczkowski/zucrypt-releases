@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.0.0",
+  "latest_version": "1.1.0",
   "download_url": "https://github.com/Zuczkowski/zucrypt-releases/releases/latest/download/ZuCrypt-Setup.exe",
-  "release_notes": "Pierwsza wersja"
+  "release_notes": "Program jest teraz w pelni bezplatny bez ograniczen dla uzytku prywatnego (usuniety limit 1 MB). Licencja Gumroad wymagana dla firm, dobrowolna dla osob prywatnych jako wsparcie. Dodano przycisk pokaz/ukryj haslo i ostrzezenie o Caps Lock."
 }
